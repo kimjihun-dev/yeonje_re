@@ -7,7 +7,9 @@
 
 <br>
 
-demo : 
+demo : https://kimjihun-dev.github.io/yeonje_re/
+
+<br>
 
 <img src="https://github.com/kimjihun-dev/yeonje_re/blob/main/mobile.png" width="40%">
 
