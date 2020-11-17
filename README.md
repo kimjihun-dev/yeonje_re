@@ -4,7 +4,7 @@
 
 ## 디자인 및 퍼블리싱
 
-<img src="https://github.com/kimjihun-dev/yeonje_re/blob/main/mobile.png" width="100%">
+<img src="https://github.com/kimjihun-dev/yeonje_re/blob/main/mobile.png" width="60%">
 
 
 
